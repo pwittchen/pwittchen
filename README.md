@@ -7,4 +7,12 @@ You can find me on [StackOverflow](https://stackoverflow.com/users/1150795/piotr
 
 From time to time, I write articles for my technical [blog](https://wittchen.io/posts/) and give [talks](https://wittchen.io/talks/) at the conferences and meetups.
 
+## partners
+
+Oxylabs is a provider of proxy and web scraping solutions
+
+[![Oxylabs](oxylabs_logo.png)](https://oxylabs.io?utm_source=pwittchen&utm_medium=cpc&utm_campaign=pwittchen_github_partner&adgroupid=210320221)
+
+## stats
+
 [![github stats](https://github-readme-stats.vercel.app/api?username=pwittchen)](https://github.com/pwittchen)
