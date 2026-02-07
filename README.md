@@ -1,3 +1,3 @@
 ### Hi! 👋 I'm Piotr Wittchen
 
-→ [wittchen.io](https://wittchen.io/)
+personal website → [wittchen.io](https://wittchen.io/)
