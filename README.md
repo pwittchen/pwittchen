@@ -1,4 +1,4 @@
-👋 I'm software engineer and indie developer
+👋 My name is **Piotr Wittchen**. I'm a software engineer and indie developer
 
 👉 links: [wittchen.io](https://wittchen.io/) / [linkedin](https://www.linkedin.com/in/pwittchen/) / [stackoverflow](https://stackoverflow.com/users/1150795/piotr-wittchen)
 
