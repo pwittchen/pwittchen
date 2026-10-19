@@ -1,7 +1,9 @@
-👋 My name is **Piotr Wittchen**. I'm a software engineer and indie developer
+👋 Hi! I'm **Piotr Wittchen**, a software engineer and indie developer passionate about building great software.
 
-👉 links: [wittchen.io](https://wittchen.io/) / [linkedin](https://www.linkedin.com/in/pwittchen/) / [stackoverflow](https://stackoverflow.com/users/1150795/piotr-wittchen)
+👉 **Find me online:** [Website](https://wittchen.io/) · [LinkedIn](https://www.linkedin.com/in/pwittchen/) · [Stack Overflow](https://stackoverflow.com/users/1150795/piotr-wittchen)
 
-💻 my current project (not officially released yet - stay tuned):
+💻 **What I'm currently building:**
 
-[zoramail.app](https://zoramail.app/) | **zora** - modern email desktop client for macOS 14+ (Apple Silicon) · Gmail and IMAP · made primarily in Rust
+✉️ [**zora**](https://zoramail.app/) — A modern, native-feeling email client for macOS 14+ (Apple Silicon), supporting Gmail and IMAP. Built primarily in Rust.
+
+🚀 **Coming soon!** Not officially released yet — stay tuned.
