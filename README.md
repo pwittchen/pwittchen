@@ -6,4 +6,4 @@
 
 ✉️ [**zora**](https://zoramail.app/) — A modern, native-feeling email client for macOS 14+ (Apple Silicon), supporting Gmail and IMAP. Built primarily in Rust.
 
-🚀 **Coming soon!** Not officially released yet — stay tuned.
+🚀 **Coming soon!** Not officially released yet — stay tuned. Estimated release: December 2026.
