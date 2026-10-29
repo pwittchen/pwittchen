@@ -8,4 +8,4 @@
 
 🚀 **Coming soon!** zora is not officially released yet — stay tuned — estimated release: December 2026.
 
-🦀 [**jrs**](https://getjrs.dev) — A simple, fast JVM build system, written in Rust. 
+🦀 [**jrs**](https://getjrs.dev) — A simple, fast, open-source JVM build system, written in Rust. 
