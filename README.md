@@ -4,4 +4,4 @@
 
 💻 **What I'm currently building a as solo founder:**
 
-✉️ [**zora**](https://zoramail.app/) — native macOS email client for Gmail & IMAP, built in Rust. 🚀 Coming December 2026.
+✉️ [**zora**](https://zoramail.app/) — native macOS email client for Gmail & IMAP, built in Rust. 🚀 Coming in December 2026.
