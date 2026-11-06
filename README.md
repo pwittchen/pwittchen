@@ -2,7 +2,7 @@
 
 👉 **Find me online:** [Website](https://wittchen.io/) · [LinkedIn](https://www.linkedin.com/in/pwittchen/) · [Stack Overflow](https://stackoverflow.com/users/1150795/piotr-wittchen)
 
-💻 **What I'm currently building a as solo founder:**
+💻 **What I'm currently building:**
 
 - [**zora**](https://zoramail.app/) — native macOS email client for Gmail & IMAP, built in Rust. Coming in December 2026 🚀.
 - [**kayet**](https://getkayet.app) — minimalistic text editor for macOS.
