@@ -6,4 +6,4 @@
 
 - [**zora**](https://zoramail.app/) — native macOS email client for Gmail & IMAP, built in Rust. Coming in December 2026 🚀.
 - [**kayet**](https://getkayet.app) — minimalistic text editor for macOS, built in Rust & Typescript.
-- [**jrs**](https://getjrs.dev) — simple, fast JVM build system, written in Rust. [Faster than Gradle daemon](https://getjrs.dev/benchmarks/).
+- [**jrs**](https://getjrs.dev) — simple, fast JVM build system, written in Rust. [Faster than Gradle daemon](https://getjrs.dev/benchmarks/) ⚡️.
