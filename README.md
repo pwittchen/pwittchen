@@ -2,7 +2,7 @@
 
 👉 **Find me online:** [Website](https://wittchen.io/) · [LinkedIn](https://www.linkedin.com/in/pwittchen/) · [Stack Overflow](https://stackoverflow.com/users/1150795/piotr-wittchen)
 
-💻 **What I'm currently building:**
+💻 **What I'm currently building a as solo founder:**
 
 ✉️ [**zora**](https://zoramail.app/) — A modern, native-feeling email client for macOS 14+ (Apple Silicon), supporting Gmail and IMAP. Built primarily in Rust.
 
