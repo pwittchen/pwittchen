@@ -1,6 +1,6 @@
 👋 Hi! I'm **Piotr Wittchen**, a software engineer and indie developer passionate about building great software.
 
-👉 **Find me online:** [Website](https://wittchen.io/) · [LinkedIn](https://www.linkedin.com/in/pwittchen/) · [Stack Overflow](https://stackoverflow.com/users/1150795/piotr-wittchen)
+👉 **Find me online:** [Website](https://wittchen.io/) · [LinkedIn](https://www.linkedin.com/in/pwittchen/) · [Stack Overflow](https://stackoverflow.com/users/1150795/piotr-wittchen) · [Google Play](https://play.google.com/store/apps/dev?id=7269544076898428056) · [Product Hunt](https://www.producthunt.com/@piotr_wittchen)
 
 💻 **What I'm currently building:**
 
