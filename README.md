@@ -4,6 +4,4 @@
 
 💻 **What I'm currently building a as solo founder:**
 
-✉️ [**zora**](https://zoramail.app/) — A modern, native-feeling email client for macOS 14+ (Apple Silicon), supporting Gmail and IMAP. Built primarily in Rust.
-
-🚀 **Coming soon!** zora is not officially released yet — stay tuned — estimated release: December 2026.
+✉️ [**zora**](https://zoramail.app/) — native macOS email client for Gmail & IMAP, built in Rust. 🚀 Coming December 2026.
